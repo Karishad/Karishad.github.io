@@ -13,12 +13,12 @@ baseurl: ''
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/Chicago
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Kieron Yin's Website                          # the main title
 
 tagline: A text-focused Jekyll theme   # it will display as the sub-title
 
@@ -34,7 +34,7 @@ github:
   username: Karishad             # change to your github username
 
 twitter:
-  username: @YinKieron            # change to your twitter username
+  username: YinKieron            # change to your twitter username
 
 social:
   # Change to your full name.
